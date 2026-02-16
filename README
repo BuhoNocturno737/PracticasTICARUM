@@ -1,1 +1,11 @@
-HOLA
+Términos	                                            Descripción
+Pasarela	                                    Lugar donde se gestiona usuarios 
+Usuarios	                                    Persona que actúa en nombre de otro
+Lista de servicios	
+Servicio	                                  Componente que da acceso a la pasarela
+EstadoUsuario	
+UsuarioProhibido	              Estado de Usuario indicando que ha sido prohibido por la pasarela
+UsuarioAutorizado	       Estado de Usuario indicando que ha sido autorizado por la pasarela para operar en nombre de otro
+EstadoAcceso	
+ServicioActivado	              Estado de Servicio indicando que ha sido activado el acceso a la pasarela
+ServicioDesactivado	          Estado de Servicio indicando que ha sido desactivado el acceso a por la pasarela
